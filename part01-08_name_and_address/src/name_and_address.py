@@ -1,0 +1,7 @@
+gn= input("Given name:")
+fn= input("Family name:")
+sa= input("Street address:")
+capc= input("City and postal code:")
+print(gn+" "+fn)
+print(sa)
+print(capc)
